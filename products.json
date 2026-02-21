@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "email": "22f3003117@ds.study.iitm.ac.in",
+    "version": "b23d4a27"
+  },
+  "products": [
+    { "id": 1, "name": "Football", "category": "sports", "price": 4999.99, "stock": 20, "rating": 4.5 },
+    { "id": 2, "name": "Cricket Bat", "category": "sports", "price": 8999.50, "stock": 15, "rating": 4.6 },
+    { "id": 3, "name": "Tennis Racket", "category": "sports", "price": 10999.99, "stock": 10, "rating": 4.4 },
+    { "id": 4, "name": "Basketball", "category": "sports", "price": 2999.00, "stock": 25, "rating": 4.2 },
+    { "id": 5, "name": "Running Shoes", "category": "sports", "price": 12999.99, "stock": 8, "rating": 4.7 },
+    { "id": 6, "name": "Yoga Mat", "category": "sports", "price": 1999.99, "stock": 30, "rating": 4.3 },
+
+    { "id": 7, "name": "Laptop", "category": "electronics", "price": 75000, "stock": 5, "rating": 4.8 },
+    { "id": 8, "name": "Mouse", "category": "electronics", "price": 999, "stock": 50, "rating": 4.1 },
+    { "id": 9, "name": "Keyboard", "category": "electronics", "price": 1999, "stock": 40, "rating": 4.2 },
+
+    { "id": 10, "name": "Chair", "category": "furniture", "price": 4999, "stock": 12, "rating": 4.0 },
+    { "id": 11, "name": "Table", "category": "furniture", "price": 8999, "stock": 7, "rating": 4.3 },
+
+    { "id": 12, "name": "Backpack", "category": "fashion", "price": 2499, "stock": 22, "rating": 4.4 },
+    { "id": 13, "name": "Jacket", "category": "fashion", "price": 5999, "stock": 14, "rating": 4.5 },
+
+    { "id": 14, "name": "Watch", "category": "accessories", "price": 7999, "stock": 11, "rating": 4.6 },
+    { "id": 15, "name": "Sunglasses", "category": "accessories", "price": 1999, "stock": 35, "rating": 4.2 },
+
+    { "id": 16, "name": "Notebook", "category": "stationery", "price": 199, "stock": 100, "rating": 4.1 },
+    { "id": 17, "name": "Pen Set", "category": "stationery", "price": 299, "stock": 80, "rating": 4.0 },
+
+    { "id": 18, "name": "Water Bottle", "category": "home", "price": 599, "stock": 60, "rating": 4.3 },
+    { "id": 19, "name": "Lamp", "category": "home", "price": 1499, "stock": 18, "rating": 4.4 }
+  ],
+  "aggregations": {
+    "sports": {
+      "count": 6,
+      "inventoryValue": 252565.29
+    }
+  }
+}
